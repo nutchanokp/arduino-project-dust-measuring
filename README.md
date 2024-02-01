@@ -25,3 +25,4 @@ version 3.0
 <img alt="App image" src="/version_3/thumbnail/S__44097544_0_resize.jpg" width="30%">
 <img alt="App image" src="/version_3/thumbnail/S__44097539_0_resize.jpg" width="30%">
 </div>
+
