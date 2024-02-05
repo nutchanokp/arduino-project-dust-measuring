@@ -1,5 +1,17 @@
 # pms
-Project Arduino เครื่องวัดฝุ่น PMS9003
+
+Project : เครื่องวัดฝุ่นแบบพกพาได้ (Portable dust measuring device)
+Creator by : Nutchanok
+advisor : Me
+Period of operation : since 2019 - now
+Concept, origin and significance : ปัจจุบันมีปัญหาเรื่องฝุ่นจนาดเล็กกว่าที่มองเห็นเป็นจำนวนมาก ซึ่งเกิดจากการเผาไร่ รถยนต์ และควันเสียจากโรงงานอุตสาหกรรมเป็นหลัก 
+objective : เพื่อใช้เป็นเครื่องวัดฝุ่น PM 1 , PM2.5 , PM10 แบบพกพาได้
+หลักการและทฤษฎี
+ วิธีดำเนินงาน
+ ขั้นตอนการปฏิบัติ
+ ผลที่คาดว่าจะได้รับ
+ เอกสารอ้างอิง
+PMS9003
 
 <!-- ![alt text](/version_1/thumbnail/20190328_033918_resize.jpg) -->
 
